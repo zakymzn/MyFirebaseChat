@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888504541224",
+    "project_id": "my-firebase-chat-a6c96",
+    "storage_bucket": "my-firebase-chat-a6c96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888504541224:android:7a5410ac6ba823b02c951d",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDvCovtjwm0zftwETNNAF6lYvvELWux8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
